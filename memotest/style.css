@@ -1,0 +1,11 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 310px;
+    width: 410px;
+    gap: 2px;
+}
+
+img:hover{
+    color: aqua;
+}

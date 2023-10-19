@@ -1,0 +1,24 @@
+.grid{
+    width: 618px;
+    height: 618px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    border: solid  black;
+}
+.line{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.mole{
+    background-image: url('mole.jpg');
+    background-size: cover;
+}
+.damaged-mole{
+    background-image: url('damaged mole.jpg');
+    background-size: cover;
+}
